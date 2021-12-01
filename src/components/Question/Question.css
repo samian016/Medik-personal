@@ -1,0 +1,9 @@
+.Qheader {
+  z-index: 1;
+}
+.Qheader:focus {
+  z-index: 1;
+}
+.Qheader:checked {
+  z-index: 1;
+}
